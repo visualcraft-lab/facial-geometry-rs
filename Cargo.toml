@@ -1,0 +1,14 @@
+[package]
+name = "facial-geometry"
+version = "0.1.0"
+edition = "2021"
+description = "Pure-math facial landmark geometry library for canthal tilt, facial thirds, golden ratio delta, and bilateral symmetry."
+license = "MIT"
+homepage = "https://looksmaxscale.com/"
+repository = "https://github.com/visualcraft-lab/facial-geometry-rs"
+documentation = "https://docs.rs/facial-geometry"
+readme = "README.md"
+keywords = ["computer-vision", "landmarks", "geometry", "face", "metrics"]
+categories = ["mathematics", "computer-vision"]
+
+[dependencies]
